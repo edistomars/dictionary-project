@@ -1,0 +1,14 @@
+h1 {
+  font-weight: bold;
+  font-size: 64px;
+}
+
+.App-logo {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.App-header {
+  margin-top: 15px;
+}
