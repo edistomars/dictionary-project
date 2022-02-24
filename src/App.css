@@ -1,21 +1,24 @@
 body {
-  background-color: #1c1124;
-  color: #878787;
+  background-color: #e3f6f5;
+  color: #272343;
 }
 
 h1 {
   font-weight: bold;
   font-size: 64px;
+  font-family: "Monoton", cursive;
+  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Shizuru", cursive;
 }
 
-.App-logo {
-  width: 300px;
-  display: block;
+.App {
+  max-width: 960px;
   margin: 0 auto;
 }
 
 .App-header {
-  margin-top: 15px;
+  margin-top: 15px 0;
 }
 
 .App-footer {
